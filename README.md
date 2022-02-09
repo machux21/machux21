@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Francisco Machuca (@machux21)
 - 👀 I’m interested in JavaScript, React Native and Node.js
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on a React Open Source Project
 - 📫 How to reach me:
   - Mail: machuxt10@gmail.com
   - Linkedin: https://www.linkedin.com/in/franciscomachucafullstack/
