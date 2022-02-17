@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/machux21/machux21/blob/main/descarga.gif" alt="fastCoding">
+<img width="100%" width="300" src="https://github.com/machux21/machux21/blob/main/descarga.gif" alt="fastCoding">
 <h1 align="center">Hi 👋, I'm Francisco Machuca</h1>
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
 
