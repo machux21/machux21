@@ -1,4 +1,4 @@
-![fastCoding](https://github.com/machux21/machux21/blob/main/descarga.gif)
+<h2 align="center">![fastCoding](https://github.com/machux21/machux21/blob/main/descarga.gif)</h2>
 <h1 align="center">Hi 👋, I'm Francisco Machuca</h1>
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
 
